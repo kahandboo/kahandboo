@@ -1,8 +1,5 @@
 <div>
 
-  ## About Me
-  ####  부산대학교 4학년 재학 중 <br/>
-  
   ##  Tech Stack
   ### Language
   <!--Python-->
